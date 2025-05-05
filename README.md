@@ -89,12 +89,6 @@ There is no formal test script, but you can verify the code correctness by:
 
 ## Team Members
 
-- **Berikov Miras**, 220103187, 0-P  
-- **Bereket Izturganov**, 220103207, 0-P  
-- **Davletkali Adilet**, 220103113, 0-P  
-- **Amanbekov Farkhat**, 220103134, 0-P  
-- **Meirzhan Anarbekuly**, 220103307, 0-P
-
 - **Berikov Miras**, 220103187, 18-P
 - **Bereket Izturganov**, 220103207, 15-P
 - **Davletkali Adilet**, 220103113, 15-P
